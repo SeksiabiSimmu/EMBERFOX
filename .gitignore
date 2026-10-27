@@ -1,0 +1,12 @@
+/build/
+/external/
+/tools/
+/dist/
+*.log
+docs/validation/*.txt
+*.user
+*.pdb
+*.ilk
+.vs/
+.idea/
+.vscode/

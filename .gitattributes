@@ -1,0 +1,13 @@
+* text=auto
+*.cpp text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.ps1 text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.iss text eol=lf
+*.png binary
+*.wav binary
+*.zip binary
+*.exe binary
+*.vst3 binary
